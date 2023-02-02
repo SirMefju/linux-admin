@@ -5,6 +5,7 @@
 * [Count line of code in files with same extension in location](#Count-line-of-code-in-files-with-same-extension-in-location)
 * [Show which extensions are in location](#Show-which-extensions-are-in-location)
 * [Count line of code in files with same extension in location typed in file](#Count-line-of-code-in-files-with-same-extension-in-location-typed-in-file)
+* [Show life changes in txt file](#Show-life-changes-in-txt-file)
 
 #### Count line of code in files with same extension in location
 ```cmd
